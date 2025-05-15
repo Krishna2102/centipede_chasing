@@ -1,2 +1,2 @@
 # centipede_chasing
-Here a centipede is chsing the cursor wherever you move it.
+Here a centipede is chasing the cursor wherever you move it.
